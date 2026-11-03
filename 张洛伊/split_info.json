@@ -1,0 +1,18 @@
+{
+  "trait": "OIL",
+  "split_mode": "environment(by location)",
+  "note": "同一地点不同年份(如2022GC/2024GC)始终在同一数据集合",
+  "train_val_ratio": "5:2",
+  "val_ratio_expected": 0.2857142857142857,
+  "seed": 40,
+  "batch_size": 32,
+  "n_total": 4579,
+  "n_train": 3275,
+  "n_val": 1304,
+  "train_ratio_actual": 0.7152,
+  "val_ratio_actual": 0.2848,
+  "train_y_mean": 16.945819847328245,
+  "train_y_std": 1.9453247672272522,
+  "val_y_mean": 17.251150306748468,
+  "val_y_std": 1.9276552229041053
+}

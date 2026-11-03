@@ -1,0 +1,19 @@
+{
+  "vcf": "/Data4/gly_wkdir/soybean_agriculture/大豆vcf_环境信息/基因/extracted_final.vcf.gz",
+  "n_snp": 35810,
+  "n_samples": 768,
+  "genotype_types": [
+    "./.",
+    "0/0",
+    "0/1",
+    "1/1"
+  ],
+  "overall_missing_rate": 0.004113543411989202,
+  "total_missing": 113131,
+  "per_snp_missing_min": 0.0,
+  "per_snp_missing_max": 0.09895833333333333,
+  "per_sample_missing_min": 0.0011449315833566042,
+  "per_sample_missing_max": 0.034571348785255515,
+  "npy_output_dir": "/Data4/gly_wkdir/soybean_agriculture/张洛伊/数据检查Dataset制作数据划分/numpy",
+  "missing_counts_sample_234": 100
+}
